@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: ske
+# key: ske
+# --
+test_cases = int(input().strip())
+
+for a_tc in test_cases:
+    
