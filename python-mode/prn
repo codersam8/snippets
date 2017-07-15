@@ -1,0 +1,5 @@
+# key: prn
+# name: prn
+# --
+print('*' * 80)
+print('$1', $0)
