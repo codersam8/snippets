@@ -2,4 +2,4 @@
 # name: int input
 # key: inti
 # --
-int(input().strip)
+int(input().strip())
